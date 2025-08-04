@@ -17,8 +17,6 @@ The **AWS Windows Secret Rotation Module** is a Terraform module that provides a
 - [Security Considerations](#security-considerations)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
 
 ## Features
 
